@@ -14,6 +14,7 @@ The project will be delivered December 15th, but as detailed in the issues page 
 
 **First Prototype**
 
-![first_prototype](https://user-images.githubusercontent.com/62119614/140690966-9b908f03-aab1-4f57-be8d-d33ee4f397f0.PNG)
+![Prototype1Real](https://user-images.githubusercontent.com/62119614/140717795-a68b48c6-cf91-44f0-8cd6-fdf1e5d6bfcd.PNG)
+
 
 The first prototype consists of two buttons, one with a counter for oranges and one with a counter for apples. These buttons can be pressed to increment their respective counters, while at the same time they both increment the overall "fruits" counter. This concept will eventually evolve into upgrades which will allow for more fruits to be obtained per click bought at the expense of total fruits, as well as an automic fruit farm which will earn the player a set number of fruits based on real time passage.
