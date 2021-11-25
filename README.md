@@ -54,4 +54,4 @@ The endgame will mostly consist of buying more farmers in order to increase the 
 
 **Future Updates**
 
-Future updates will include image drawings for the upgrades, scrolling between two pages ("Fruits" and "Store" will be in two different pages), upgrades aside from farmers and an overall better, slicker UI.
+Future updates will include image drawings for the upgrades, scrolling between two pages ("Fruits" and "Store" will be in two different pages), upgrades aside from farmers and an overall better, slicker UI. The final version will also implement features to satisfy the requirements for the integration project.
