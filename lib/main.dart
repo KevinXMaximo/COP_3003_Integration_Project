@@ -228,7 +228,7 @@ class _HomeState extends State<Home> {
                     },
                     child: new Text(
                       // display text within button, what it does and its cost
-                    '+1 orange farmer\n\nCost: ${orangeFarmerCost} oranges'),
+                    '+1 apple farmer\n\nCost: ${appleFarmerCost} apples'),
                     splashColor: Colors.redAccent, // cool splash effect
                   ),
                   Text('\n\n'), // space between button and text
