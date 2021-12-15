@@ -1,6 +1,6 @@
 # COP_3003_Integration_Project
 
-This project is a mobile app developed using Flutter, it will consist of a clicker/idle styled game demo meant to serve as a demonstration of the programming concepts I have learned.
+This project is a mobile app developed using Flutter, it consists of a clicker/idle styled game demo meant to serve as a demonstration of the programming concepts I have learned.
 
 The reason why I chose this project is due to an interest in mobile and game development. I like the idea of making a project I can run anywhere as long as I have my phone with me, and I would also like to do a project which I can easily share with friends and family. 
 
