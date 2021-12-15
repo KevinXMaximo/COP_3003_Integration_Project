@@ -1,5 +1,3 @@
-# COP_3003_Integration_Project
-
 **What is this project?**
 
 This project will be a mobile app developed using Flutter, it will consist of a clicker/idle styled game meant to serve as a demonstration of the programming concepts I have learned.
@@ -55,3 +53,81 @@ The endgame will mostly consist of buying more farmers in order to increase the 
 **Future Updates**
 
 Future updates will include image drawings for the upgrades, scrolling between two pages ("Fruits" and "Store" will be in two different pages), upgrades aside from farmers and an overall better, slicker UI. The final version will also implement features to satisfy the requirements for the integration project.
+
+# COP_3003_Integration_Project
+This project is a mobile app developed using Flutter, it will consist of a clicker/idle styled game demo meant to serve as a demonstration of the programming concepts I have learned.<br />
+The reason why I chose this project is due to an interest in mobile and game development. I like the idea of making a project I can run anywhere as long as I have my phone with me, and I would also like to do a project which I can easily share with friends and family. <br />
+The project is a demo meant to immitate a clicker game, also known as an idle game. The main idea is that the player can click buttons in order to increment a counter, and with the points obtained through clicking the button the player can buy upgrades from a store which can allow for more efficient clicking and/or passive gain of points.
+
+A good example of a clicker game is http://orteil.dashnet.org/cookieclicker/
+
+A good video to understand idle games is https://www.youtube.com/watch?v=g-LziX2HynI
+
+A good video to understand clicker games is https://www.youtube.com/watch?v=j_nI6G3ZDiE<br />
+This project was made by me. My name is Kevin Maximo, and I am a student at Florida Gulf Coast University.<br />
+This project was made during the fall semester of the 2021 school term.<br />
+This project was made for fun, it was my first attempt at making a mobile app and of using flutter. I hope to eventually learn more about the platform in order to make more advanced apps using flutter.<br />
+This project was made for a Programming II Class (COP 3003) admnistered by Prof. Scott Vanselow.<br />
+
+## Demonstration
+
+![incrementingApples](https://user-images.githubusercontent.com/62119614/143375572-81195d00-f2e1-4763-9298-dae5dc954985.gif)
+
+## Diagrams
+
+![final_class_diagram](https://user-images.githubusercontent.com/62119614/146274090-c0ca398a-26fa-413d-aee7-eee7416f842e.PNG)
+
+## Getting Started
+
+In order to run this project, you must first download android studio.
+
+Android Studio Download Tutorial: https://developer.android.com/studio/install
+
+Then, you must install flutter.
+
+Flutter on Android Studio Guide: https://www.c-sharpcorner.com/article/flutter-with-android-studio-step-by-step-installation-guide/
+
+Then, pull the project from github and use an android emulator to run the program.<br />
+
+## Built With
+
+* Android Studio  
+* Flutter
+* https://docs.flutter.dev/
+
+## Contributing
+
+This project can be contributed upon by adding more features which could mimic a real clicker game, such as an idle aspect where the player can earn fruits while the app is closed.
+
+## Author
+
+* Kevin Xavier Maximo
+
+## License
+
+Public repositories on GitHub are often used to share open source software. For your repository to truly be open source, you'll need to license it so that others are free to use, change, and distribute the software. https://help.github.com/articles/licensing-a-repository/ <br />
+You have the option to choose a license when you first create your repository. </br>
+If you need to create a license for an existing repository...
+1. Go to your repository.
+2. Click on "Create new file" Button.
+3. Type the file name as License.txt or License.md in the input box next to your repository name, a drop down button appears towards right side.
+4. Choose the type of license of your choice.
+5. Click "Commit new file" button at the bottom (Green button)
+Credit https://stackoverflow.com/questions/31639059/how-to-add-license-to-an-existing-github-project <br />
+To choose a license, see https://choosealicense.com/ 
+
+## Acknowledgments
+
+* Web sites utilized
+* Classmates who helped
+* Your professor or TA if they helped
+
+## History
+
+Information about what has changed. 
+
+## Key Programming Concepts Utilized
+
+This section would not necessarily be in a real README.  <br />
+It is a reference for you and a place to impress potential employers with your knowledge. 
+Identify what concepts you utilize so when you need to use them again you will know that you will find them here. Include a brief description of the concepts in your own words to help you prepare for related interview questions. 
